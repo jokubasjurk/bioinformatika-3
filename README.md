@@ -13,11 +13,11 @@ Gimiau 23 dieną. 23 + 33 = 56. ASCII lentelėje atitinka skaitmens '8' simbolį
 ASCII pirmieji 32 kodai (skaičiai 0-31 dešimtainiu tikslumu) skirti valdymo ženklams: kodai, kurie iš pradžių buvo skirti ne spausdintinai informacijai išreikšti, o ASCII naudojančių įrenginių (pvz., spausdintuvų) valdymui arba metainformacijai apie duomenų srautus, pvz., saugomus magnetinėje juostoje, pateikti.
 
 ## Parašykite, kokią koduotę nustatėte ir kuo remiantis?
-Naudojau šį šaltinį: https://en.wikipedia.org/wiki/FASTQ_format#Encoding ir remiausi ten pateiktomis lentelėmis:
+Naudojau šį šaltinį: https://en.wikipedia.org/wiki/FASTQ_format#Encoding ir remiausi ten pateiktomis lentelėmis.
 
 Naudojamų simbolių aibė baigiasi ties ASCII lentelės 73 elementu. Iš to išplaukia, kad gali būti naudojamos **Sanger Phred+33** arba **Illumina 1.8+ Phred+33** koduotės.
 
-Kadangi Illumina koduotė baigiasi ties 'I' simboliu, patikrinau ar yra simbolių, kurie nepatenka į aibę, 'J' simbolis yre galimas Illumina koduotėje, tačiau Sanger koduotėje jo nėra. Paieškojus, 'J' simbolio nėra, tad koduotė - **Sanger Phred+33**.
+Patikrinau ar yra simbolių, kurie nepatenka į tinkamą aibę, 'J' simbolis yre galimas Illumina koduotėje, tačiau Sanger koduotėje jo nėra. Paieškojus, 'J' simbolio nėra, tad koduotė - **Sanger Phred+33**.
 
 ## Pateikite grafiką, kurio y ašyje būtų read’ų skaičius, x ašyje - C/G nukletidų dalis read’o sekoje. Parašykite, koks „stambių“ pikų skaičius yra gautame grafike?
 
@@ -28,7 +28,6 @@ Matomi 3 pikai, kai (C/G nucleotides) X ašis yra ties 0.35, 0.55 ir 0.7.
 ## Pateikite lentelę, kurioje būtų read’o id ir rasto mikroorganizmo rūšis
 
 <img width="1147" alt="image" src="https://user-images.githubusercontent.com/56769782/207632804-587be3e1-4688-4f0e-ae60-e84208ca2a13.png">
-
 
 ## Kokių rūšių bakterijų buvo mėginyje?
   - Staphylococcus aureus
