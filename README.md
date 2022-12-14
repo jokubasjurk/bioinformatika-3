@@ -27,7 +27,7 @@ Matomi 3 pikai, kai (C/G nucleotides) X ašis yra ties 0.35, 0.55 ir 0.7.
 
 ## Pateikite lentelę, kurioje būtų read’o id ir rasto mikroorganizmo rūšis
 
-<img width="1147" alt="image" src="">
+<img width="1147" alt="image" src="https://user-images.githubusercontent.com/56769782/207632804-587be3e1-4688-4f0e-ae60-e84208ca2a13.png">
 
 
 ## Kokių rūšių bakterijų buvo mėginyje?
