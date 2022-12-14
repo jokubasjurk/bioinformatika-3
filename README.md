@@ -21,7 +21,7 @@ Kadangi Illumina koduotė baigiasi ties 'I' simboliu, patikrinau ar yra simboli�
 
 ## Pateikite grafiką, kurio y ašyje būtų read’ų skaičius, x ašyje - C/G nukletidų dalis read’o sekoje. Parašykite, koks „stambių“ pikų skaičius yra gautame grafike?
 
-<img width="746" alt="image" src="">
+<img width="746" alt="image" src="https://user-images.githubusercontent.com/56769782/207632649-3a95ad5a-c69f-4d61-9766-18882645326f.png">
 
 Matomi 3 pikai, kai (C/G nucleotides) X ašis yra ties 0.35, 0.55 ir 0.7.
 
